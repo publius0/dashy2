@@ -200,7 +200,7 @@
         <a href="https://github.com/tazboyz16">
             <img src="https://avatars.githubusercontent.com/u/12215340?v=4" width="80;" alt="tazboyz16"/>
             <br />
-            <sub><b>tazboyz16</b></sub>
+            <sub><b>Tazboyz16</b></sub>
         </a>
     </td></tr>
 </table>
